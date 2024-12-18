@@ -1,0 +1,135 @@
+.tableun {
+    margin-left: 50px;
+    
+}
+
+.precel {
+    width: 300px;
+    padding-bottom: 1000px;
+}
+
+.deucel {
+    padding-bottom: 660px;
+    padding-left: 50px;
+}
+
+.imcv {
+    height: 30%;
+    width: 35%;
+}
+
+.faceb {
+    width: 100px
+}
+
+.google {
+    padding-left: 20px;
+    width: 100px;
+}
+
+.xx {
+    width: 100px;
+    height: 40px;
+    padding-top: 5px;
+}
+
+.linke {
+    width: 100px;
+    padding-left: 20px;
+}
+
+.blaz {
+    padding-left: 35px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Titres */
+h2 {
+    background-color: #0078b4;
+    color: #fff;
+    padding: 10px;
+    margin: 0 0 10px 0;
+}
+
+h3 {
+    color: #0078b4;
+    margin: 10px 0 5px 0;
+}
+
+/* Sections */
+.section {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Listes */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Compétences et Tags */
+.skills span, .tag {
+    display: inline-block;
+    background-color: #0078b4;
+    color: white;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Barres de compétences */
+.languages div {
+    margin: 10px 0;
+    position: relative;
+}
+
+.languages span {
+    display: block;
+    font-weight: bold;
+}
+
+.bar {
+    height: 10px;
+    width: 100%;
+    background: #e0e0e0;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.bar.green {
+    width: 90%;
+    background: #4caf50;
+}
+
+.bar.orange {
+    width: 60%;
+    background: #ff9800;
+}
+
+.bar.blue {
+    width: 40%;
+    background: #2196f3;
+}
